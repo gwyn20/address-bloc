@@ -100,4 +100,4 @@ require_relative '../models/address_book'
                     entry_submenu(entry)
             end
         end
-    end    
+    end 
